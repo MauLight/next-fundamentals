@@ -13,7 +13,7 @@
     "clsx": "^2.1.1",
     "install": "^0.13.0",
     "motion": "^12.4.10",
-    "next": "latest",
+    "next": "15.2.2-canary.6",
     "next-auth": "5.0.0-beta.25",
     "npm": "^11.2.0",
     "postcss": "8.5.1",
